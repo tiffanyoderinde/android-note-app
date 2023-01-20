@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048713567560",
+    "project_id": "tiffany-29f19",
+    "storage_bucket": "tiffany-29f19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048713567560:android:b391e43958077a1001677d",
+        "android_client_info": {
+          "package_name": "com.example.tiffany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048713567560-md3tmjrdkgcnv93j286noj136srn9k83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc-sSjWDYxQz3JRU51WuWVKiJYnXKB-pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048713567560-md3tmjrdkgcnv93j286noj136srn9k83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
